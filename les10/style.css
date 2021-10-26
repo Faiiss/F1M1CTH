@@ -1,0 +1,14 @@
+body{
+    background-image: url(daQgdV2.jpg);
+    background-size: cover;
+}
+
+h1{
+    background-color: lightseagreen;
+}
+
+div{
+    position: absolute;
+    border:palegreen 20px outset;
+    background-color: orchid;
+}
